@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=grifill)](https://github.com/grifill/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grifill)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grifill)](https://github.com/grifill/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grifill)](https://github.com/grifill/github-readme-stats)
